@@ -35,7 +35,7 @@ Clash的默认架构大概是，在`localhost:7890`启了一个proxy server来�
 
 而在Clash上点开System Proxy，实际上是在windows的proxy settings里设置了如下内容
 
-![haha](https://vpsplq.bn.files.1drv.com/y4mosWPqevIlkNg83Yg0UUBuPs9YuK1j91dImDRIGGrshXwy9qqGqC2QP3QmFE--0w550DAt_jd_3h9V6ZXZKVg-maG-gBDB_V_5pcN_sqBpfEraBiK_m_N87Ef78kn5H3nfyqBNc2Xa3d8j3Ql2aHiOTiV_sdqFvXCA74ft_Mq_QVUBoqUUbJAOEk2SWn8PCHIqvZU5lZMA4-3iGEX2mUBhg?width=588&height=581&cropmode=none)
+![test](../pictures/Image_20200118.png)
 
 问题就出在这个windows的系统代理上。
 
@@ -69,4 +69,8 @@ Clash的默认架构大概是，在`localhost:7890`启了一个proxy server来�
 Android上使用proxy就没有那么多坑，现在大多数App都支持按照App来转发流量，比如我使用的Sufboard。
 
 ---
-总而言之，在使用代理的时候，只要清楚地知道那些App走了代理，那些App没有走代理，就能避免掉很多潜在地坑，即使遇到问题，也能快速排查。
+总而言之，在使用代理的时候，只要清楚地知道哪些App走了代理，哪些App没有走代理，就能避免掉很多潜在地坑，即使遇到问题，也能快速排查。
+
+## 其他可能的方案
+
+- [在 Windows 10 上使用 Hyper-V 安装 LEDE 软路由](https://blog.skk.moe/post/hyper-v-win10-lede/)
