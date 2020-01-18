@@ -35,7 +35,7 @@ Clash的默认架构大概是，在`localhost:7890`启了一个proxy server来�
 
 而在Clash上点开System Proxy，实际上是在windows的proxy settings里设置了如下内容
 
-![test](../pictures/Image_20200118.png)
+![test](https://raw.githubusercontent.com/Sphish/gitpress-docs/master/pictures/Image_20200118.png)
 
 问题就出在这个windows的系统代理上。
 
