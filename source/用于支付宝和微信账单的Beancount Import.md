@@ -194,4 +194,4 @@ def strip_blank(contents):
 ### 推荐使用VSCode的beancount插件
 
 他可以把不对劲的transcation entry给标出来，是对帐时不可或缺的好帮手。
-![beancount-vscode](../pictures/beancount-vscode.png)
+![beancount-vscode](https://raw.githubusercontent.com/Sphish/gitpress-docs/master/pictures/beancount-vscode.png)
