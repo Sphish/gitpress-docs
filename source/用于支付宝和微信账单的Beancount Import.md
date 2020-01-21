@@ -137,6 +137,7 @@ def strip_blank(contents):
 - 先要`normalize_config()`
 - 然后依次读入每行（每个交易记录），利用`iconfig`提取出有效行
 - 根据有效信息生成transcation entry，并利用`account_map`将transcation对应到正确的account上去
+
   ```python
                       primary_account = mapping_account(
                         self.account_map["assets"], account
@@ -162,7 +163,7 @@ def strip_blank(contents):
                     txn.postings.append(
                         data.Posting(secondary_account, None, None, None, None, None)
                     )
-    ```
+  ```
 
 #### 针对支付宝账单的特殊处理
 
