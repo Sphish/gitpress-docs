@@ -139,7 +139,7 @@ def strip_blank(contents):
 - 根据有效信息生成transcation entry，并利用`account_map`将transcation对应到正确的account上去
 
   ```python
-                      primary_account = mapping_account(
+                    primary_account = mapping_account(
                         self.account_map["assets"], account
                     )
                     txn.postings.append(
