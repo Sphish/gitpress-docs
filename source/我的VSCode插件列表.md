@@ -39,6 +39,7 @@ tags: ["VSCode"]
 - [Visual Studio Online - Intelligent productivity and collaboration, from anywhere, powered by the cloud](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline)
 - [Comment Anchors - Place anchor tags within comments for easy file & workspace navigation.](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors)
 - [Rest Client - REST Client for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Format Files](https://marketplace.visualstudio.com/items?itemName=jbockle.jbockle-format-files)
   
 ## Markdown
 
@@ -58,6 +59,7 @@ tags: ["VSCode"]
 - [Rainbow CSV - Highlight CSV and TSV files in different colors, Run SQL-like queries](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [XML - XML Language Support by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 - [XML Tools - XML Formatting, XQuery, and XPath Tools for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+- [Log File Highlighter - Adds color highlighting to log files to make it easier to follow the flow of log events and identify problems.](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)
 
 ## React Web Development
 

@@ -64,7 +64,9 @@ Clash的默认架构大概是，在`localhost:7890`启了一个proxy server来�
 
 总之，在WSL里最需要用到代理的软件也就是git, pip, apt, wget等。在网上都能搜到诸多解决方案。比如pip可以使用[pysocks](https://pypi.org/project/PySocks/)。值得一提的是，类似以ssh的方式git clone时，由于不是http/https流量，所以设置代理的方式会有些特殊，比如[How to force Git to use socks proxy over its ssh connection?](https://stackoverflow.com/a/58253407)。
 
-#### 使用tsocks
+#### 使用proxychains
+
+[Why use proxychains instead of tsocks?](https://serverfault.com/questions/754172/apt-get-maddeningly-doesnt-work-with-tsocks-proxy-set-up-with-ssh)
 
 ## 在Android上使用Sufboard
 
