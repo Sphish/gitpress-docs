@@ -31,6 +31,7 @@ tags: ["VSCode"]
 - [Java Extension Pack - Popular extensions for Java development and more](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 - [Tomcat for Java - Debug or run your java war package in Apache Tomcat](https://marketplace.visualstudio.com/items?itemName=adashen.vscode-tomcat)
 - [Version Lens - Shows the latest version for each package using code lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+- [Scala Syntax (official) - Official Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
 
 ## Misc
 
