@@ -10,7 +10,7 @@ tags: ["VSCode"]
 [C/C++ - C/C++ IntelliSense, debugging, and code browsing](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 [vscode-clangd - Clang Language Server](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd)
 [Clang-Format - Use Clang-Format in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
-[C/C++ Clang Command Adapter - Completion and Diagnostic for C/C++/Objective-C using Clang Command](https://marketplace.visualstudio.com/items?itemName=mitaki28.vscode-clang)
+[Clang-Tidy - Integrates clang-tidy into VS Code](https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy)
 
 ## Display
 
